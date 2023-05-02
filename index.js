@@ -1,16 +1,38 @@
 const express = require("express");
+
+const cors = require("cors");
+const app = express();
+const port = process.env.PORT || 4000;
+
+app.use(cors());
 const chefs = require("./data/chefs.json");
 const recipes = require("./data/recipes.json");
 const foods = require("./data/foods.json");
 const reviews = require("./data/reviews.json");
-const cors = require("cors");
-const app = express();
-const port = 4000;
-
-app.use(cors());
 
 app.get("", (req, res) => {
-  res.send({ message: "this server is running" });
+  // home page text
+  res.send(`
+  <div >
+  <h1 className="">The Chefs Galore Server</h1>
+  <hr />
+  <h3 className="">All Chefs</h3>
+  <p className="">https://chefs-galore-server-jamsheduddin03-gmailcom.vercel.app/chefs</p>
+  <p className="">_____________________</p>
+  <h3 className="">Single Chef detail</h3>
+  <p className="">https://chefs-galore-server-jamsheduddin03-gmailcom.vercel.app/chefs/id</p>
+  <p className="">_____________________</p>
+  <h3 className="">Recipes</h3>
+  <p className="">https://chefs-galore-server-jamsheduddin03-gmailcom.vercel.app/recipes</p>
+  <p className="">_____________________</p>
+  <h3 className="">Foods</h3>
+  <p className="">https://chefs-galore-server-jamsheduddin03-gmailcom.vercel.app/foods</p>
+  <p className="">_____________________</p>
+  <h3 className="">Reviews</h3>
+  <p className="">https://chefs-galore-server-jamsheduddin03-gmailcom.vercel.app/reviews</p>
+  <p className="">_____________________</p>
+  </div>
+`);
 });
 
 // chef and chef detail data
@@ -38,5 +60,5 @@ app.get("/reviews", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("the server is running");
+  console.log(`the server is running on port ${port}`);
 });
