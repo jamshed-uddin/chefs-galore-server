@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "reviewer_name": "John Doe",
+    "rating": 4.5,
+    "review": "I had a really great experience. The food was delicious, and I particularly enjoyed the seafood pasta. The service was friendly and attentive, but a bit slow at times. The atmosphere was cozy and inviting, which made for a relaxing evening. Overall, I would definitely recommend this restaurant to others."
+  },
+  {
+    "id": 2,
+    "reviewer_name": "Jane Smith",
+    "rating": 4.0,
+    "review": "I thought the food was decent, but nothing special. I had the steak and it was cooked well, but lacked seasoning. However, the atmosphere was really nice and the decor was lovely. The service was also good, our server was friendly and accommodating. I would come back for the ambiance, but maybe try a different dish next time."
+  },
+  {
+    "id": 3,
+    "reviewer_name": "Bob Johnson",
+    "rating": 5.0,
+    "review": "I had an amazing dining experience! The food was incredible, everything from the appetizers to the desserts. The service was top-notch as well, our waiter was attentive and knowledgeable about the menu. The ambiance was romantic and intimate, which made for a perfect date night. I highly recommend this restaurant to anyone looking for a delicious and memorable meal."
+  },
+  {
+    "id": 4,
+    "reviewer_name": "Samantha Lee",
+    "rating": 3.8,
+    "review": "The food was mediocre and not worth the price. I had the salmon and it was overcooked and dry. The service was also lacking, our waiter seemed uninterested in our table. The ambiance was nice, but unfortunately the food and service did not make up for it. I wouldn't recommend this restaurant to others."
+  },
+  {
+    "id": 5,
+    "reviewer_name": "Michael Chen",
+    "rating": 4.0,
+    "review": "I enjoyed my meal at this restaurant, although the portions were a bit small for the price. The chicken dish I had was cooked well and tasted good, but I wish there was more of it. The service was attentive and polite, which made for a pleasant dining experience. The ambiance was cozy and relaxed, perfect for a casual night out. Overall, I would recommend this restaurant to others, but be aware of the portion sizes."
+  }
+]
