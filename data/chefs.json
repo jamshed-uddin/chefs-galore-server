@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture_url": "https://example.com/chef1.jpg",
+    "picture_url": "https://i.ibb.co/N945JYd/chef1.jpg",
     "name": "Sean Doe",
     "years_of_experience": 10,
     "num_recipes": 50,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "picture_url": "https://example.com/chef2.jpg",
+    "picture_url": "https://i.ibb.co/vXfsL0F/chef2.jpg",
     "name": "John Smith",
     "years_of_experience": 5,
     "num_recipes": 30,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "picture_url": "https://example.com/chef3.jpg",
+    "picture_url": "https://i.ibb.co/qpGWsDb/chef4.jpg",
     "name": "Carlos Hernandez",
     "years_of_experience": 15,
     "num_recipes": 100,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "picture_url": "https://example.com/chef4.jpg",
+    "picture_url": "https://i.ibb.co/ctRCDS1/chef3.jpg",
     "name": "Sophie Lee",
     "years_of_experience": 8,
     "num_recipes": 40,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "picture_url": "https://example.com/chef5.jpg",
+    "picture_url": "https://i.ibb.co/ZdQsyPV/chef6.jpg",
     "name": "David Park",
     "years_of_experience": 12,
     "num_recipes": 60,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "picture_url": "https://example.com/chef6.jpg",
+    "picture_url": "https://i.ibb.co/MfJGBp2/chef5.jpg",
     "name": "Megan Taylor",
     "years_of_experience": 3,
     "num_recipes": 20,

@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "food_img_url": "https://example.com/food1.jpg",
+    "food_img_url": "https://i.ibb.co/WFBNMx9/spaghetti.jpg",
     "food_name": "Spaghetti Carbonara",
     "description": "A classic Italian dish made with spaghetti, bacon, eggs, and parmesan cheese. Rich and creamy, it's the ultimate comfort food."
   },
   {
     "id": 2,
-    "food_img_url": "https://example.com/food2.jpg",
+    "food_img_url": "https://i.ibb.co/tXTQbMM/chicken.jpg",
     "food_name": "Chicken Curry",
     "description": "A spicy and aromatic Indian curry made with chicken, onions, tomatoes, and a blend of fragrant spices. Served with rice or naan bread."
   },
   {
     "id": 3,
-    "food_img_url": "https://example.com/food3.jpg",
+    "food_img_url": "https://i.ibb.co/SfBrryx/beef.jpg",
     "food_name": "Beef Stroganoff",
     "description": "A hearty Russian dish made with beef, mushrooms, onions, and sour cream. Served over noodles or mashed potatoes."
   },
   {
     "id": 4,
-    "food_img_url": "https://example.com/food4.jpg",
+    "food_img_url": "https://i.ibb.co/f0XK2xV/fish.jpg",
     "food_name": "Fish and Chips",
     "description": "A classic British dish made with battered fish and deep-fried chips. Served with tartar sauce and a side of peas or mushy peas."
   },
   {
     "id": 5,
-    "food_img_url": "https://example.com/food5.jpg",
+    "food_img_url": "https://i.ibb.co/XCWLfGb/tacos.jpg",
     "food_name": "Tacos al Pastor",
     "description": "A popular Mexican street food made with marinated pork, pineapple, and cilantro. Served on soft corn tortillas and topped with onion and salsa."
   },
   {
     "id": 6,
-    "food_img_url": "https://example.com/food6.jpg",
+    "food_img_url": "https://i.ibb.co/F6bMwFb/thai.jpg",
     "food_name": "Pad Thai",
     "description": "A flavorful Thai dish made with stir-fried rice noodles, shrimp or chicken, tofu, peanuts, bean sprouts, and a tangy sauce. Garnished with lime and cilantro."
   }
