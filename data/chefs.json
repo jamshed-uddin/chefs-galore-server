@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "picture_url": "https://example.com/chef1.jpg",
     "name": "Sean Doe",
     "years_of_experience": 10,
@@ -8,6 +9,7 @@
     "bio": "Sean Doe is a classically trained chef with experience working in Michelin-starred restaurants in Europe and the US. His specialty is French cuisine, but he also enjoys experimenting with flavors and techniques from around the world."
   },
   {
+    "id": 2,
     "picture_url": "https://example.com/chef2.jpg",
     "name": "John Smith",
     "years_of_experience": 5,
@@ -16,6 +18,7 @@
     "bio": "John Smith is a self-taught chef who has worked in restaurants in New York and San Francisco. She is known for her innovative takes on classic dishes and her use of locally sourced ingredients."
   },
   {
+    "id": 3,
     "picture_url": "https://example.com/chef3.jpg",
     "name": "Carlos Hernandez",
     "years_of_experience": 15,
@@ -24,6 +27,7 @@
     "bio": "Carlos Hernandez grew up in a family of chefs in Mexico, and has worked in restaurants in the US and Latin America. He specializes in traditional Mexican cuisine, and loves to share the stories behind the dishes he creates."
   },
   {
+    "id": 4,
     "picture_url": "https://example.com/chef4.jpg",
     "name": "Sophie Lee",
     "years_of_experience": 8,
@@ -32,6 +36,7 @@
     "bio": "Sophie Lee is a graduate of the Culinary Institute of America, and has worked in top restaurants in New York and Los Angeles. She is known for her contemporary approach to Asian cuisine, and her use of seasonal and sustainable ingredients."
   },
   {
+    "id": 5,
     "picture_url": "https://example.com/chef5.jpg",
     "name": "David Park",
     "years_of_experience": 12,
@@ -40,6 +45,7 @@
     "bio": "David Park is a Korean-American chef who has worked in restaurants in Seoul, New York, and Los Angeles. He is known for his fusion cuisine, which combines Korean flavors with techniques from French and Japanese cuisine."
   },
   {
+    "id": 6,
     "picture_url": "https://example.com/chef6.jpg",
     "name": "Megan Taylor",
     "years_of_experience": 3,
