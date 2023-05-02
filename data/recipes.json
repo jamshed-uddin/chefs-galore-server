@@ -1,0 +1,193 @@
+[
+  {
+    "recipe_name": "Spaghetti Carbonara",
+    "chef_id": 1,
+    "ingredients": [
+      "spaghetti",
+      "bacon",
+      "eggs",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "cooking_method": "Boil the spaghetti until al dente, then mix with a sauce made from bacon, eggs, parmesan cheese, and black pepper.",
+    "rating": 4.5
+  },
+  {
+    "recipe_name": "Roast Chicken",
+    "chef_id": 2,
+    "ingredients": ["whole chicken", "butter", "lemon", "garlic", "thyme"],
+    "cooking_method": "Rub the chicken with butter, lemon, garlic, and thyme, then roast in the oven until golden brown.",
+    "rating": 4.2
+  },
+  {
+    "recipe_name": "Beef Stew",
+    "chef_id": 3,
+    "ingredients": ["beef", "carrots", "potatoes", "onions", "beef broth"],
+    "cooking_method": "Brown the beef, then simmer with carrots, potatoes, onions, and beef broth until tender.",
+    "rating": 4.8
+  },
+  {
+    "recipe_name": "Vegetable Stir-Fry",
+    "chef_id": 1,
+    "ingredients": [
+      "broccoli",
+      "carrots",
+      "bell peppers",
+      "onions",
+      "soy sauce"
+    ],
+    "cooking_method": "Stir-fry the vegetables with soy sauce until tender, then serve over rice or noodles.",
+    "rating": 4.3
+  },
+  {
+    "recipe_name": "Salmon with Dill Sauce",
+    "chef_id": 5,
+    "ingredients": ["salmon", "olive oil", "dill", "lemon", "yogurt"],
+    "cooking_method": "Brush the salmon with olive oil, then bake in the oven until cooked through. Serve with a sauce made from dill, lemon, and yogurt.",
+    "rating": 4.7
+  },
+  {
+    "recipe_name": "Pesto Pasta",
+    "chef_id": 1,
+    "ingredients": ["pasta", "basil", "pine nuts", "garlic", "olive oil"],
+    "cooking_method": "Blend basil, pine nuts, garlic, and olive oil to make a pesto sauce, then toss with cooked pasta.",
+    "rating": 4.1
+  },
+  {
+    "recipe_name": "Chicken Tikka Masala",
+    "chef_id": 2,
+    "ingredients": ["chicken", "yogurt", "tomatoes", "onions", "garam masala"],
+    "cooking_method": "Marinate chicken in yogurt and spices, then cook in a sauce made from tomatoes, onions, and garam masala.",
+    "rating": 4.9
+  },
+  {
+    "recipe_name": "Lemon Garlic Shrimp",
+    "chef_id": 2,
+    "ingredients": ["shrimp", "butter", "lemon", "garlic", "parsley"],
+    "cooking_method": "Cook the shrimp in butter, garlic, and lemon until pink, then garnish with parsley.",
+    "rating": 4.6
+  },
+  {
+    "recipe_name": "Beef Burgundy",
+    "chef_id": 3,
+    "ingredients": ["beef", "bacon", "red wine", "carrots", "onions"],
+    "cooking_method": "Brown the beef and bacon, then simmer with red wine, carrots, and onions until tender.",
+    "rating": 4.4
+  },
+  {
+    "recipe_name": "Soba Noodle Salad",
+    "chef_id": 3,
+    "ingredients": [
+      "soba noodles",
+      "cucumber",
+      "carrots",
+      "sesame seeds",
+      "soy sauce"
+    ],
+    "cooking_method": "Cook soba noodles and toss with cucumber, carrots, sesame seeds, and soy sauce.",
+    "rating": 4.2
+  },
+  {
+    "recipe_name": "Baked Salmon",
+    "chef_id": 4,
+    "ingredients": ["salmon", "lemon", "garlic", "butter", "dill"],
+    "cooking_method": "Place salmon in a baking dish and top with lemon, garlic, butter, and dill. Bake in the oven until cooked through.",
+    "rating": 4.5
+  },
+  {
+    "recipe_name": "Chicken Fajitas",
+    "chef_id": 4,
+    "ingredients": [
+      "chicken",
+      "bell peppers",
+      "onions",
+      "taco seasoning",
+      "tortillas"
+    ],
+    "cooking_method": "Cook chicken with bell peppers, onions, and taco seasoning, then serve with warm tortillas.",
+    "rating": 4.3
+  },
+  {
+    "recipe_name": "Stuffed Bell Peppers",
+    "chef_id": 4,
+    "ingredients": [
+      "bell peppers",
+      "ground beef",
+      "rice",
+      "tomatoes",
+      "cheese"
+    ],
+    "cooking_method": "Cook ground beef and rice, then stuff into bell peppers with tomatoes and cheese. Bake in the oven until peppers are tender.",
+    "rating": 4.1
+  },
+  {
+    "recipe_name": "Pesto Grilled Cheese",
+    "chef_id": 5,
+    "ingredients": ["bread", "pesto", "mozzarella cheese", "butter", "tomato"],
+    "cooking_method": "Spread pesto on bread, add mozzarella cheese and tomato, then grill in butter until cheese is melted.",
+    "rating": 4.8
+  },
+  {
+    "recipe_name": "Spicy Chicken Tacos",
+    "chef_id": 5,
+    "ingredients": [
+      "chicken breast",
+      "taco shells",
+      "avocado",
+      "lettuce",
+      "sour cream",
+      "hot sauce",
+      "lime"
+    ],
+    "cooking_method": "Season chicken with spices and cook in a pan until golden brown. Assemble tacos with chicken, avocado, lettuce, sour cream, hot sauce, and lime juice.",
+    "rating": 4.5
+  },
+  {
+    "recipe_name": "Baked Salmon with Asparagus",
+    "chef_id": 6,
+    "ingredients": [
+      "salmon fillet",
+      "asparagus",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "cooking_method": "Marinate salmon fillet with lemon juice, garlic, salt, and black pepper. Arrange asparagus on a baking dish, add salmon on top, and bake in the oven. Drizzle with olive oil before serving.",
+    "rating": 4.9
+  },
+  {
+    "recipe_name": "Beef Stroganoff",
+    "chef_id": 6,
+    "ingredients": [
+      "beef sirloin",
+      "mushrooms",
+      "onion",
+      "sour cream",
+      "beef broth",
+      "egg noodles",
+      "butter"
+    ],
+    "cooking_method": "Saute beef sirloin and mushrooms until brown. Add onion, beef broth, and sour cream. Serve over cooked egg noodles with a dollop of sour cream and a sprinkle of parsley.",
+    "rating": 4.7
+  },
+  {
+    "recipe_name": "Greek Salad",
+    "chef_id": 6,
+    "ingredients": [
+      "romaine lettuce",
+      "tomatoes",
+      "cucumbers",
+      "red onion",
+      "feta cheese",
+      "kalamata olives",
+      "lemon",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "cooking_method": "Chop lettuce, tomatoes, cucumbers, and red onion into bite-sized pieces. Add crumbled feta cheese and kalamata olives. Dress with a mixture of lemon juice, olive oil, salt, and black pepper. Toss and serve.",
+    "rating": 4.6
+  }
+]
