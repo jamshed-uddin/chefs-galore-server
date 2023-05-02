@@ -18,6 +18,12 @@ app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
 
+app.get("/chefs/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const singleChefs = chefs.find((chef) => chef.id === id);
+  res.send(singleChefs);
+});
+
 // recipes data
 app.get("/recipes", (req, res) => {
   res.send(recipes);
